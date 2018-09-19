@@ -1,0 +1,10 @@
+body{
+	background-image: url("http://i1.wp.com/getwallpapers.com/wallpaper/full/6/8/9/301862.jpg?resize=806%2C453");
+	background-size: cover;
+	background-repeat: no-repeat;
+}	
+#myChart{
+	height: 450px !important;
+	width: 100%;
+
+}
